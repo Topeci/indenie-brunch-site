@@ -166,7 +166,7 @@ export default function Home() {
           </div>
           <div className="ticket-card">
             <span className="ticket-label">TABLE VIP (6 pers.)</span>
-            <span className="ticket-price">[PRIX] FCFA</span>
+            <span className="ticket-price">3000 FCFA</span>
             <div className="ticket-features">
               <span>· Table privée</span>
               <span>· 2 bouteilles incluses</span>
